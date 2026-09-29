@@ -3,7 +3,7 @@ __pycache__/
 .venv/
 venv/
 .env
-*.duckdb
-*.db
 .DS_Store
 .pytest_cache/
+output/*.csv
+!output/.gitkeep

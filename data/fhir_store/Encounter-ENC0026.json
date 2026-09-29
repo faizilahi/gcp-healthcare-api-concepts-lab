@@ -1,0 +1,18 @@
+{
+  "resourceType": "Encounter",
+  "id": "ENC0026",
+  "status": "finished",
+  "class": [
+    {
+      "coding": [
+        {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "EMER"
+        }
+      ]
+    }
+  ],
+  "subject": {
+    "reference": "Patient/P0027"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "resourceType": "Patient",
+  "id": "P0009",
+  "name": [
+    {
+      "family": "Kim",
+      "given": [
+        "Taylor"
+      ]
+    }
+  ],
+  "gender": "male",
+  "birthDate": "1969-05-20"
+}
